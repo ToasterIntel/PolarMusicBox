@@ -8,4 +8,4 @@ Now imagine you place small pins on the clock face, such that any given pin will
 Depending on how far from the center and how far around the clock we place the pins, we can control the timing and pitch of the tones our clock-instument produces.
 If you're familiar with mathematics, you might see some parallels between our pin placement and a polar coordinate system and realize that if we treat our pins as points within some polar space, we can mathematically define new melodies.
 
-To continue exploring this idea, let's call the distance from the center of our clock to our pin *r*. We'll express how far around the clock the pin is by calling the it's angle past 3 o'clock in the counterclockwise direction *theta*.
+To continue exploring this idea, let's call the distance from the center of our clock to our pin *r*. We'll express how far around the clock the pin is by calling it's angle past 3 o'clock in the counterclockwise direction *theta*.
